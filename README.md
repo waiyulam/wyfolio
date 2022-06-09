@@ -1,6 +1,8 @@
 # Wyfolio
 
-![](public/WL-logos_transparent.png)
+<p align="center">
+<img src="public/WL-logos_transparent.png" width="250" >
+</p>
 
 My personal portfolio which features some of my github projects as well as my resume and technical skills
 
