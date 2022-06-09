@@ -1,2 +1,5 @@
 # Wyfolio
- This is a developer portfolio about me and my projects 
+
+My personal portfolio which features some of my github projects as well as my resume and technical skills
+
+
