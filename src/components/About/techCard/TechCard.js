@@ -7,11 +7,11 @@ function TechCard({ data }) {
             {
                 data.map((value) => {
                     let logo;
-                    if (value.title == "Golang") {
+                    if (value.title === "Golang") {
                         logo = <img style={{
                             maxWidth: "30%",
                             maxHeight: "30%",
-                        }} src={value.logo} />
+                        }} src={value.logo} alt="golang"/>
                     } else {
                         logo = <value.logo />
                     }

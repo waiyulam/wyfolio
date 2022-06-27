@@ -22,8 +22,7 @@ function Degree() {
                                 maxWidth: "100%",
                                 maxHeight: "100%",
                                 transform: "scale(0.9)",
-                                alt: "cornell",
-                            }} src={cornellLogo} />
+                            }} src={cornellLogo} alt="cornell"/>
                         </a>
                     </Fade>
                 </Col>
@@ -40,8 +39,7 @@ function Degree() {
                                 maxWidth: "100%",
                                 maxHeight: "100%",
                                 transform: "scale(0.9)",
-                                alt: "ucdavis",
-                            }} src={davisLogo} />
+                            }} src={davisLogo} alt="ucdavis"/>
                         </a>
 
                     </Fade>

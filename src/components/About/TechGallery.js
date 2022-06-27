@@ -230,12 +230,12 @@ function TechGallery() {
     const tabsData = ["all", ...new Set(categoryData)];
 
     const filterCategory = (category) => {
-        if (category == "all") {
+        if (category === "all") {
             setData(techStack);
             return;
         }
         const filteredData = techStack.filter((value) => {
-            return value.category == category;
+            return value.category === category;
         })
         setData(filteredData);
     }

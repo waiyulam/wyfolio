@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Accordion } from "react-bootstrap";
+import {Accordion } from "react-bootstrap";
 import ExperienceCard from "./experienceCard/ExperienceCard";
 
 const sections = [
