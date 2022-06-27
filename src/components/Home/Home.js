@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col, Button } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/iron-man-small.ico";
 import Particle from "../Particle";
 import Intro from "./Intro";

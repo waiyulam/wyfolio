@@ -2,9 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Tilt from "react-parallax-tilt";
 import { Fade } from "react-awesome-reveal";
-import cloudInfraImg from "../../Assets/cloud_infrastructure.svg"
-import fullStackImg from "../../Assets/fullstack.svg"
-import dataScienceImg from "../../Assets/data_science.svg"
 
 
 const jobs = [

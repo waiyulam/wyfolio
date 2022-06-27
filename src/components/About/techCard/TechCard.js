@@ -1,4 +1,3 @@
-import { render } from "@testing-library/react";
 import React from "react";
 import { OverlayTrigger, Tooltip, Row, Col } from "react-bootstrap";
 

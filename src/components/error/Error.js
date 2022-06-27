@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { Fade } from "react-awesome-reveal";
 import "./Error.css";
 import { Link } from "react-router-dom";

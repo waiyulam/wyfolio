@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container} from "react-bootstrap";
 import TechTab from "./techTab/TechTab";
 import TechCard from "./techCard/TechCard";
 import { useState } from "react";
@@ -36,7 +36,6 @@ import {
     SiSpring,
     SiScikitlearn,
     SiKubernetes,
-    SiReddit,
     SiApachekafka,
     SiRabbitmq,
     SiRedis,
