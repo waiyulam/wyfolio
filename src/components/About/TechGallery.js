@@ -40,6 +40,8 @@ import {
     SiRabbitmq,
     SiRedis,
     SiTypescript,
+    SiRedux,
+    SiJquery,
 } from "react-icons/si";
 
 import golangLogo from "../../Assets/golang.svg";
@@ -98,6 +100,16 @@ const techStack = [
     {
         title: "Javascript",
         logo: DiJavascript1,
+        category: "Full Stack Development",
+    },
+    {
+        title: "Redux",
+        logo: SiRedux,
+        category: "Full Stack Development",
+    },
+    {
+        title: "JQuery",
+        logo: SiJquery,
         category: "Full Stack Development",
     },
     {

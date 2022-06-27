@@ -14,7 +14,7 @@ const projects = [
     },
     {
         title: "X-Map",
-        description: "XMap is route finding, route planning, navigation and adventure sharing platform for cyclists, hikers, runners and more.",
+        description: "XMap is route finding, route planning, navigation and adventure sharing platform built with Python on Flask framework and React.js. Have features which allow users search for trails and parks around the world. Users will be able read other users reviews and create, edit or delete their own reviews.",
         imgPath: "xmap.png",
         link: "https://github.com/X-Map",
         hasDemo: true,
