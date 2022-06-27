@@ -1,7 +1,7 @@
 # Wyfolio
 
 <p align="center">
-<img src="public/WL-logos_transparent.png" width="250" >
+<img src="public/logo512.png" width="250" >
 </p>
 
 My personal portfolio which features some of my github projects as well as my resume and technical skills
